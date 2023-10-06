@@ -5,25 +5,29 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Momentum App</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Pacifico&family=Young+Serif&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Pacifico&family=Young+Serif&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+    <h2 id="clock">00:00:00</h2>
     <form class="hidden" id="login-form">
       <input
         maxlength="15"
         required
         type="text"
-        placeholder="Please Write Your Name"
+        placeholder="Write Your Name"
       />
       <input type="submit" value="Log In" />
     </form>
-    <h2 id="clock">00:00:00</h2>
+    <br />
     <h1 class="hidden" id="greeting"></h1>
     <form id="todo-form">
-      <input type="text" placeholder="Write a To Do and Press Enter" />
+      <input type="text" placeholder="Write Your To Do Lists ✍🏻" />
     </form>
     <ul id="todo-list"></ul>
     <div id="quote">
@@ -40,6 +44,5 @@
     <script src="JavaScript/background.js"></script>
     <script src="JavaScript/todo.js"></script>
     <script src="JavaScript/weather.js"></script>
-     <script src="JavaScript/greeting.js"></script>
   </body>
 </html>
