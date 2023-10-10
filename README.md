@@ -31,9 +31,9 @@
 <h3>Greeting.js</h3>
 - When a user submits an event, store user information in the local storage. Depending on the presence of stored user information, hide the existing form and display a greeting message thereafter. <br/>
 <h3>Todo.js</h3>
-- Convert the user-submitted value into a stringified object and store it in the local storage as an array containing 'id' and 'todo'
-- Represent the information in the local storage by utilizing the presence or absence of stored data using 'li' elements
-- Implement functionality for adding and deleting 'li' elements
+- Convert the user-submitted value into a stringified object and store it in the local storage as an array containing 'id' and 'todo'</br>
+- Represent the information in the local storage by utilizing the presence or absence of stored data using 'li' elements </br>
+- Implement functionality for adding and deleting 'li' elements</br>
 <h3>Weather.js</h3>
 - Utilize the OpenWeatherMap API to display real-time weather and temperature information based on the current location </br>
 <div>
