@@ -8,9 +8,10 @@
  <li>Incorporate external API</li>
 </ul>
 <div>
-<p> ☞ Pusblished Chrom app website: https://quiet-strudel-77b924.netlify.app/ </p>
 <img width="1440" alt="Screen Shot 2023-10-10 at 3 40 44 PM" src="https://github.com/SungKim96/Momentum/assets/120751395/36e254c3-44c3-4b51-8ab5-09219ebf0173">
 <img width="1440" alt="Screen Shot 2023-10-10 at 3 41 10 PM" src="https://github.com/SungKim96/Momentum/assets/120751395/e1e233f6-7af9-4f4b-8e94-606a17374618">
+<p> ☞ Pusblished Chrom app website: https://quiet-strudel-77b924.netlify.app/ </p>
+</div>
 <h2>Using Skills</h2>
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=CSS&logoColor=black"/>
