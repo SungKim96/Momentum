@@ -9,8 +9,8 @@
 </ul>
 <div>
 <p> ☞ Pusblished Chrom app website: https://quiet-strudel-77b924.netlify.app/ </p>
- <img width="1440" alt="Screen Shot 2023-10-10 at 3 41 10 PM" src="https://github.com/SungKim96/Momentum/assets/120751395/e1e233f6-7af9-4f4b-8e94-606a17374618">
 <img width="1440" alt="Screen Shot 2023-10-10 at 3 40 44 PM" src="https://github.com/SungKim96/Momentum/assets/120751395/36e254c3-44c3-4b51-8ab5-09219ebf0173">
+<img width="1440" alt="Screen Shot 2023-10-10 at 3 41 10 PM" src="https://github.com/SungKim96/Momentum/assets/120751395/e1e233f6-7af9-4f4b-8e94-606a17374618">
 <img width="1439" alt="Screen Shot 2023-10-10 at 3 38 13 PM" src="https://github.com/SungKim96/Momentum/assets/120751395/e7872fba-63a6-407e-9d0f-904b66442a70">
 <img width="1440" alt="Screen Shot 2023-10-10 at 3 39 16 PM" src="https://github.com/SungKim96/Momentum/assets/120751395/d0b44b96-ec11-45f9-98ad-200a8646c25c">
 
