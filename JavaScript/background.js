@@ -18,7 +18,6 @@ const images = [
   'image17.jpg',
   'image18.jpg',
   'image19.jpg',
-  'image20.jpg',
 ];
 
 const chosenImage = images[Math.floor(Math.random() * images.length)];
