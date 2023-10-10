@@ -25,6 +25,14 @@
 <div>
 <h2>Pages/Functions</h2>
 </div>
+<h2>References</h2>
+ <ul>
+  <li>Lecture: https://nomadcoders.co/javascript-for-beginners</li>
+  <li>API:https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${API_KEY}&units=metric</li>
+ </ul>
+</div>
+
+
 
  
   
