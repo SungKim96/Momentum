@@ -6,21 +6,12 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=CSS&logoColor=black"/>
   </div>
-<h2>What I learn</h2>
+<h2>Project Goals</h2>
 <ul>
- <li>Basic JavaScript function on the browser</li>
- <li>Login</li>
- <span>-Local storage </span>
- <li>Clock</li>
- <span>-PadStart </span> <br/>
- <li>Quotes & Background</li>
-  <span>-Math.random, Math.floor </span>
- <li>To do Lists</li>
- <span>- </span> <br/>
- <span>- </span> <br/>
- <span>- </span> <br/>
- <li>Weather</li>
-  <span>- weather API</span>
+ <li>- Review and apply CSS styles</li>
+ <li>- Utilize local storage to create a login page and to-do list</li>
+ <li>- Implement basic JavaScript functions in the browser</li>
+ <li>- Incorporate external API</li>
 </ul>
 <div>
 <h2>Pages/Functions</h2>
