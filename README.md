@@ -8,10 +8,10 @@
   </div>
 <h2>Project Goals</h2>
 <ul>
- <li>- Review and apply CSS styles</li>
- <li>- Utilize local storage to create a login page and to-do list</li>
- <li>- Implement basic JavaScript functions in the browser</li>
- <li>- Incorporate external API</li>
+ <li>Review and apply CSS styles</li>
+ <li>Utilize local storage to create a login page and to-do list</li>
+ <li>Implement basic JavaScript functions in the browser</li>
+ <li>Incorporate external API</li>
 </ul>
 <div>
 <h2>Pages/Functions</h2>
